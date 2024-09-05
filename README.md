@@ -1,6 +1,7 @@
 # Welcome to a beginner course  on HTML Tutorials
 
-Let's get started okay.
+Learning how to code has never been easier,so grab a seat and a laptop,Let's get started okay.
+
 My name is Richard and you know what they Always say?
 To test your knowledge on a subject,teach it.
 
